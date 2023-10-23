@@ -1,2 +1,2 @@
 # demo-repo-bash
-Hear we sart whit bash
+Hear we sart whit git bash
